@@ -6,9 +6,9 @@ import pandas as pd
 import urllib
 import urllib.request
 
-usn = 'johncorio'
-client_id = '9e17ca04639a4ec78f9f9dac9fc6580b'
-secret_id = 'cac68a2907a341c79138f9d7e57bc88b'
+usn = 'REDACTED :)'
+client_id = 'REDACTED :)'
+secret_id = 'REDACTED :)'
 redirect_uri = 'http://localhost:8888/callback'
 gather_type = 'user-library-read'
 
